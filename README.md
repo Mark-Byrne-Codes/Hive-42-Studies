@@ -20,8 +20,7 @@ Below is a list of my projects with a brief description of each. Click on the li
 ### [Ft_Printf](https://github.com/Mark-Byrne-Codes/Hive-42-Studies/tree/main/libft)
 **Description**: A custom implementation of the `printf` function, supporting various format specifiers and handling different data types.  
 **Key Features**:
-- Supports format specifiers like `%c`, `%s`, `%d`, `%i`, `%u`, `%x`, `%X`, `%p`, and `%%`.
-- Handles flags, width, precision, and length modifiers.  
+- Supports format specifiers like `%c`, `%s`, `%d`, `%i`, `%u`, `%x`, `%X`, `%p`, and `%%`. 
 **Skills**: Variadic functions, string formatting, edge-case handling.
 
 ---
@@ -30,7 +29,6 @@ Below is a list of my projects with a brief description of each. Click on the li
 **Description**: A function that reads a line from a file descriptor, allowing for efficient and flexible file reading in C.  
 **Key Features**:
 - Reads one line at a time from a file descriptor.
-- Supports multiple file descriptors and can handle large files efficiently.  
 **Skills**: File I/O, memory management, dynamic memory allocation.
 
 ---
