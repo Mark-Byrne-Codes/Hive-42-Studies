@@ -33,6 +33,16 @@ Below is a list of my projects with a brief description of each. Click on the li
 
 ---
 
+
+### [Push Swap](https://github.com/your-username/push_swap)
+**Description**: A sorting algorithm project that involves sorting a stack of integers using a limited set of operations.  
+**Key Features**:
+- Implements a sorting algorithm using two stacks (`stack_a` and `stack_b`).
+- Optimizes the number of operations to sort the stack efficiently.  
+**Skills**: Algorithm design, problem-solving, optimization, and data structures.
+
+---
+
 ## How to Use This Portfolio
 1. Click on the project links above to navigate to their respective repositories.
 2. Each project repository contains its own `README.md` with detailed information about the project, including installation instructions, usage examples, and testing guidelines.
