@@ -25,7 +25,7 @@ Below is a list of my projects with a brief description of each. Click on the li
 
 ---
 
-### [Get_Next_Line](https://github.com/Mark-Byrne-Codes/Hive-42-Studies/tree/main/libftt)
+### [Get_Next_Line](https://github.com/Mark-Byrne-Codes/Hive-42-Studies/tree/main/libft)
 **Description**: A function that reads a line from a file descriptor, allowing for efficient and flexible file reading in C.  
 **Key Features**:
 - Reads one line at a time from a file descriptor.
@@ -34,12 +34,22 @@ Below is a list of my projects with a brief description of each. Click on the li
 ---
 
 
-### [Push Swap](https://github.com/your-username/push_swap)
+### [Push Swap](https://github.com/Mark-Byrne-Codes/Hive-42-Studies/tree/main/push_swap)
 **Description**: A sorting algorithm project that involves sorting a stack of integers using a limited set of operations.  
 **Key Features**:
 - Implements a sorting algorithm using two stacks (`stack_a` and `stack_b`).
 - Optimizes the number of operations to sort the stack efficiently.  
 **Skills**: Algorithm design, problem-solving, optimization, and data structures.
+
+---
+
+### [So_long](https://github.com/Mark-Byrne-Codes/Hive-42-Studies/tree/main/so_long)
+**Description**: A 2D game project where the player navigates through a map, collecting items and reaching the exit while avoiding obstacles. 
+**Key Features**:
+- Implements a pathfinding algorithm to ensure all collectibles and the exit are reachable.
+- Uses MLX42 for rendering graphics and handling player movement.
+- Manages game state with structured memory allocation and deallocation. 
+**Skills**: Game development, algorithm implementation, memory management, and problem-solving.
 
 ---
 
